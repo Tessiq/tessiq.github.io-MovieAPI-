@@ -1,0 +1,27 @@
+.App{
+    padding: 1%;
+    background-color: black;
+    display: block;
+    color: white;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 50px;
+}
+.Movie{
+    width: 300px;
+    height: auto;
+    text-align: center;
+    border: 1px solid white;
+}
+input{
+    padding: 1%;
+}
+.search{
+    width: 293px;
+    text-align: center;
+    border: 1px solid white;
+    padding: 1%;
+}
+body{
+    background-color: black;
+}
